@@ -1,6 +1,6 @@
 # Compilador Cool - Análise Léxica
 
-Etapa de análise léxica do compilador de Cool, feita em Python, de forma manual (leitura caractere a caractere + reconhecimento de padrões, sem usar flex/bison).
+Etapa de análise léxica do compilador de Cool, feita em Python, de forma manual (leitura caractere a caractere + reconhecimento de padrões)
 
 ## Como rodar
 
